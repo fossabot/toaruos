@@ -1,5 +1,6 @@
 ![Screenshot](http://i.imgur.com/kGfILDP.png)
 ![More Screenshots](http://i.imgur.com/y7LiF2m.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Ftoaruos.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Ftoaruos?ref=badge_shield)
 
 # ToAruOS (とあるOS) #
 
@@ -70,3 +71,7 @@ Please see [Testing and Building](https://github.com/klange/toaruos/wiki/Testing
 For help building the kernel and userspace, join us in `#toaruos` on Freenode (`irc.freenode.net`).
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Ftoaruos.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Ftoaruos?ref=badge_large)
